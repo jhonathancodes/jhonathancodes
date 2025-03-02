@@ -23,6 +23,21 @@ Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, e
 
 ---
 
+### 📬 Contato
+<p align="left">
+    <a href="www.linkedin.com/in/jhonathandelima" target="_blank">
+        <img alt="LinkedIn" title="LinkedIn" width="120px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:jhonathan.novais3450@gmail.com?subject=&body=" target="_blank">
+        <img alt="E-mail" title="E-mail" width="100px" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5511962619817" target="_blank">
+        <img alt="WhatsApp" title="WhatsApp" width="120px" src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+</p>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -110,5 +125,4 @@ Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, e
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhooo0w&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
