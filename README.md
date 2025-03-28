@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e também ministro aulas de informática. Apaixonado por tecnologia e sempre buscando aprender e compartilhar conhecimento!
+Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, faço estágio como desenvolvedor Front-end e também ministro aulas de TI. Sou apaixonado por tecnologia e estou sempre buscando aprender e compartilhar conhecimento!
 
 <p align="left">
     <a href="https://github.com/jhooo0w?tab=repositories&sort=stargazers">
