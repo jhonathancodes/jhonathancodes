@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jhonathan Lima
+# 👨‍💻 Jhonathan Lima
 
 **`Desenvolvedor Front-End`**
 
