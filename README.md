@@ -91,6 +91,8 @@ Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, e
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
