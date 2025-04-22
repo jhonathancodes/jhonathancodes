@@ -4,23 +4,6 @@
 
 Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, faço estágio como desenvolvedor Front-end e também ministro aulas de TI. Sou apaixonado por tecnologia e estou sempre buscando aprender e compartilhar conhecimento!
 
-<p align="left">
-    <a href="https://github.com/jhooo0w?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/jhooo0w?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/jhooo0w?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jhooo0w?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 📬 Contato
