@@ -57,6 +57,14 @@ Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, e
 />
 <img 
     align="left" 
+    alt="Next" 
+    title="Next"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -70,14 +78,6 @@ Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node" 
-    title="Next"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
