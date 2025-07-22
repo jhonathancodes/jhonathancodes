@@ -9,11 +9,11 @@
 ```js
 let dados = {
   nome: "Jhonathan de Lima",
-  idade: 19,
+  idade: 20,
   email: "jhonathandev7@gmail.com",
   tecnologias: ["APIs Rest", "NextJs", "React", "React Native", "Firebase", "Bootstrap", "TypeScript", "Styled Components", "Node"],
 }
-
+```
 ---
 
 ### 📬 Contato
