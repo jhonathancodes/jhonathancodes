@@ -1,8 +1,26 @@
-# 👨‍💻 Jhonathan Lima
+# 👨‍💻 Olá, sou o Jhonathan!
 
 **`Desenvolvedor Front-End`**
 
-Oi, eu sou o Jhonathan de Lima, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, faço estágio como desenvolvedor Front-end e também ministro aulas de TI. Sou apaixonado por tecnologia e estou sempre buscando aprender e compartilhar conhecimento!
+## 📊 GitHub Stats
+
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonathancodes&theme=aura)
+![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonathancodes&theme=aura)
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonathancodes&theme=aura)
+![Commits Recentes](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonathancodes&theme=aura&utcOffset=-3)
+
+---
+
+### 📬 Sobre mim
+
+---
+
+let dados = {
+       nome:"Jhonathan de Lima",
+       idade: 20,
+       email:"jhonathandev7@gmail.com",
+       tecnologias:["APIs Rest", "NextJS", "React", "React Native", "Tailwind", "Bootstrap", "TypeScript", "Styled Components", "Node"],
+}
 
 ---
 
