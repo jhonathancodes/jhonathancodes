@@ -11,7 +11,7 @@ let dados = {
   nome: "Jhonathan de Lima",
   idade: 20,
   email: "jhonathandev7@gmail.com",
-  tecnologias: ["APIs Rest", "NextJs", "React", "React Native", "Firebase", "Bootstrap", "TypeScript", "Styled Components", "Node"],
+  tecnologias: ["APIs Rest", "NextJs", "React", "React Native", "Firebase", "Bootstrap", "TypeScript", "Styled Components", "Node", "Git", "Python"],
 }
 ```
 ---
