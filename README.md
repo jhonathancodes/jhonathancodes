@@ -21,7 +21,7 @@ let dados = {
     <a href="www.linkedin.com/in/jhonathandelima" target="_blank">
         <img alt="LinkedIn" title="LinkedIn" width="120px" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:jhonathan.novais3450@gmail.com?subject=&body=" target="_blank">
+    <a href="mailto:jhonathandev7@gmail.com?subject=&body=" target="_blank">
         <img alt="E-mail" title="E-mail" width="100px" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://api.whatsapp.com/send?phone=5511962619817" target="_blank">
