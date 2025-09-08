@@ -114,6 +114,7 @@ let dados = {
 ### 💼 Projetos
 
 - 🚀 [Doe Já!](https://github.com/jhonathancodes/ascomdoacao) — Plataforma de doações com autenticação e painel de usuários.
+- 🚀 [Andrade Barber](https://github.com/jhonathancodes/andradebarber) — Sistema de agendamentos para a Andrade Barber.
 - 🚀 [DS Consultoria](https://github.com/jhonathancodes/dscontabilidadeltda) — Landing Page para a DS Consultoria e Contabilidade.
 - 🚀 [Workshop Microlins](https://github.com/jhonathancodes/workshopmicrolins) — Landing Page para a Microlins.
 
